@@ -15,7 +15,7 @@
 27,0012,GAME,Uplay,Settlers 7 Balance
 30,0035,GAME,Uplay,From Dust
 33,0033,GAME,Uplay,Tintin
-37,0014,GAME,Uplay,Call of Juarez The Cartel
+37,0014,GAME,Steam,Call of Juarez The Cartel
 40,0035,GAME,Uplay,Assassin's Creed Revelations
 44,0040,GAME,Uplay,Might & Magic Heroes VI
 45,0008,GAME,Uplay,Anno 2070 Beta
@@ -24,20 +24,20 @@
 52,0021,GAME,Uplay,Party Example
 53,0017,GAME,Uplay,Ghost Recon Future Soldier
 54,0036,GAME,Uplay,Assassin's Creed III
-55,0008,GAME,Uplay,Driver: San Francisco
-56,0007,GAME,Uplay,Assassin's Creed II
-57,0008,GAME,Uplay,Assassin's Creed Brotherhood
-58,0008,GAME,Uplay,Splinter Cell Conviction
-59,0005,GAME,Uplay,Assassin's Creed Revelations
-60,0008,GAME,Uplay,Might & Magic Heroes VI
-61,0008,GAME,Uplay,Settlers 7
-62,0007,GAME,Uplay,H.A.W.X 2
-63,0009,GAME,Uplay,Prince of Persia The Forgotten Sands
-64,0008,GAME,Uplay,From Dust
-65,0005,GAME,Uplay,Ghost Recon Future Soldier
-68,0009,GAME,Uplay,Silent Hunter 5
+55,0008,GAME,Steam,Driver: San Francisco
+56,0007,GAME,Steam,Assassin's Creed II
+57,0008,GAME,Steam,Assassin's Creed Brotherhood
+58,0008,GAME,Steam,Splinter Cell Conviction
+59,0005,GAME,Steam,Assassin's Creed Revelations
+60,0008,GAME,Steam,Might & Magic Heroes VI
+61,0008,GAME,Steam,Settlers 7
+62,0007,GAME,Steam,H.A.W.X 2
+63,0009,GAME,Steam,Prince of Persia The Forgotten Sands
+64,0008,GAME,Steam,From Dust
+65,0005,GAME,Steam,Ghost Recon Future Soldier
+68,0009,GAME,Steam,Silent Hunter 5
 69,0007,GAME,Uplay,World In Conflict
-71,0008,GAME,Uplay,Anno 2070
+71,0008,GAME,Steam,Anno 2070
 78,0022,GAME,Uplay,Trials Evolution Gold Edition
 80,0007,GAME,Uplay,Rayman Origins
 82,0005,GAME,Uplay,Assassin's Creed
@@ -52,8 +52,8 @@
 95,0004,GAME,Uplay,Splinter Cell Chaos Theory
 96,0003,DLC,Uplay,Splinter Cell Conviction - Deniable Ops: Insurgency
 97,0003,DLC,Uplay,Assassin's Creed Revelations - The Lost Archive
-101,0013,GAME,Uplay,Far Cry® 3
-102,0009,GAME,Uplay,Assassin's Creed III
+101,0013,GAME,Steam,Far Cry® 3
+102,0009,GAME,Steam,Assassin's Creed III
 103,0010,GAME,Uplay,Assassin's Creed III - RUS
 104,0007,GAME,Uplay,Assassin's Creed III - JPN
 105,0010,GAME,Uplay,Assassin's Creed III - CZ
@@ -83,7 +83,7 @@
 136,0005,GAME,Origin,Need for Speed™ Most Wanted
 137,0004,GAME,Origin,Medal of Honor™ Warfighter
 138,0005,GAME,Uplay,To The Moon
-139,0002,GAME,Uplay,Assassin's Creed III
+139,0002,GAME,Steam,Assassin's Creed III
 140,0012,GAME,Uplay,Trials Evolution Gold Edition MP Beta
 141,0004,GAME,Steam,The Lord of the Rings: War in the North
 142,0007,GAME,Steam,LEGO Batman: The Videogame
@@ -141,7 +141,7 @@
 259,0004,GAME,Origin,SimCity™ Limited Edition
 260,0002,GAME,Steam,Tomb Raider
 261,0002,GAME,Steam,Tomb Raider: Survival Edition
-262,0021,GAME,Uplay,Trials Evolution Gold Edition
+262,0021,GAME,Steam,Trials Evolution Gold Edition
 263,0003,GAME,Steam,Painkiller Hell & Damnation Collector's Edition
 264,0003,GAME,Steam,Alan Wake Collector's Edition
 265,0002,GAME,Steam,The Book of Unwritten Tales Deluxe Edition
