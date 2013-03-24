@@ -1,0 +1,168 @@
+2,0028,GAME,Uplay,Splinter Cell Conviction
+3,0027,GAME,Uplay,Silent Hunter 5
+4,0034,GAME,Uplay,Assassin's Creed II
+8,0040,GAME,Uplay,Settlers 7
+11,0033,GAME,Uplay,Prince of Persia The Forgotten Sands
+12,0002,GAME,Steam,R.U.S.E.™
+13,0033,GAME,Uplay,Driver: San Francisco
+16,0006,GAME,Uplay,Settlers 7 Beta
+17,0012,GAME,Uplay,Settlers 7 Demo
+20,0030,GAME,Uplay,Shaun White Skateboarding
+21,0036,GAME,Uplay,H.A.W.X 2
+22,0031,GAME,Uplay,Anno 2070
+25,0020,GAME,Uplay,Might & Magic Heroes VI Beta
+26,0044,GAME,Uplay,Assassin's Creed Brotherhood
+27,0012,GAME,Uplay,Settlers 7 Balance
+30,0035,GAME,Uplay,From Dust
+33,0033,GAME,Uplay,Tintin
+37,0014,GAME,Uplay,Call of Juarez The Cartel
+40,0035,GAME,Uplay,Assassin's Creed Revelations
+44,0040,GAME,Uplay,Might & Magic Heroes VI
+45,0008,GAME,Uplay,Anno 2070 Beta
+46,0044,GAME,Uplay,Far Cry® 3
+48,0037,GAME,Uplay,Might & Magic Heroes VI
+52,0021,GAME,Uplay,Party Example
+53,0017,GAME,Uplay,Ghost Recon Future Soldier
+54,0036,GAME,Uplay,Assassin's Creed III
+55,0008,GAME,Uplay,Driver: San Francisco
+56,0007,GAME,Uplay,Assassin's Creed II
+57,0008,GAME,Uplay,Assassin's Creed Brotherhood
+58,0008,GAME,Uplay,Splinter Cell Conviction
+59,0005,GAME,Uplay,Assassin's Creed Revelations
+60,0008,GAME,Uplay,Might & Magic Heroes VI
+61,0008,GAME,Uplay,Settlers 7
+62,0007,GAME,Uplay,H.A.W.X 2
+63,0009,GAME,Uplay,Prince of Persia The Forgotten Sands
+64,0008,GAME,Uplay,From Dust
+65,0005,GAME,Uplay,Ghost Recon Future Soldier
+68,0009,GAME,Uplay,Silent Hunter 5
+69,0007,GAME,Uplay,World In Conflict
+71,0008,GAME,Uplay,Anno 2070
+78,0022,GAME,Uplay,Trials Evolution Gold Edition
+80,0007,GAME,Uplay,Rayman Origins
+82,0005,GAME,Uplay,Assassin's Creed
+83,0004,GAME,Uplay,Tom Clancy's EndWar
+84,0006,GAME,Uplay,Far Cry
+85,0004,GAME,Uplay,Far Cry 2
+86,0006,GAME,Uplay,H.A.W.X
+87,0003,GAME,Uplay,Heroes of Might and Magic V
+89,0005,GAME,Uplay,Anno 1404
+90,0004,GAME,Uplay,World In Conflict
+93,0004,GAME,Uplay,I am Alive
+95,0004,GAME,Uplay,Splinter Cell Chaos Theory
+96,0003,DLC,Uplay,Splinter Cell Conviction - Deniable Ops: Insurgency
+97,0003,DLC,Uplay,Assassin's Creed Revelations - The Lost Archive
+101,0013,GAME,Uplay,Far Cry® 3
+102,0009,GAME,Uplay,Assassin's Creed III
+103,0010,GAME,Uplay,Assassin's Creed III - RUS
+104,0007,GAME,Uplay,Assassin's Creed III - JPN
+105,0010,GAME,Uplay,Assassin's Creed III - CZ
+109,0002,GAME,Uplay,Tom Clancy's Splinter Cell
+110,0003,GAME,Uplay,Tom Clancy's Splinter Cell Double Agent
+111,0002,GAME,Uplay,Prince of Persia: The Sands of Time
+112,0002,GAME,Uplay,Call of Juarez 2: Bound in blood
+113,0004,GAME,Uplay,Prince of Persia: The Two Thrones
+114,0002,GAME,Uplay,Ghost Recon Advanced Warfighter 2
+115,0003,DLC,Uplay,Ghost Recon Future Soldier - Arctic Strike DLC Pack
+116,0001,DLC,Uplay,Assassin's Creed III - The Hidden Secrets Pack
+117,0001,DLC,Uplay,Assassin's Creed III - The Battle Hardened Pack
+118,0001,DLC,Uplay,Assassin's Creed III - The Tyranny of King Washington Episode 1: The Infamy
+119,0002,DLC,Uplay,Assassin's Creed III - The Tyranny of King Washington Episode 2: The Betrayal
+121,0002,GAME,Uplay,Prince of Persia: Warrior Within
+122,0002,DLC,Uplay,H.A.W.X 2 - All-in-One DLC Pack
+123,0009,GAME,Steam,Batman: Arkham City GOTY
+124,0005,GAME,Steam,Lego Harry Potter
+125,0004,GAME,Steam,LEGO Harry Potter: Years 5-7
+126,0003,GAME,ManiaPlanet,Shootmania Storm
+127,0031,GAME,ManiaPlanet,Trackmania Canyon
+128,0005,DLC,Uplay,Assassin's Creed III - Benedict Arnold
+131,0005,GAME,Uplay,Hoyle Card Games 2012
+132,0004,GAME,Steam,Crusader Kings II
+133,0004,GAME,Steam,War of the Roses
+134,0008,GAME,Steam,Batman: Arkham Asylum GOTY Edition
+136,0005,GAME,Origin,Need for Speed™ Most Wanted
+137,0004,GAME,Origin,Medal of Honor™ Warfighter
+138,0005,GAME,Uplay,To The Moon
+139,0002,GAME,Uplay,Assassin's Creed III
+140,0012,GAME,Uplay,Trials Evolution Gold Edition MP Beta
+141,0004,GAME,Steam,The Lord of the Rings: War in the North
+142,0007,GAME,Steam,LEGO Batman: The Videogame
+143,0006,GAME,Steam,LEGO Batman 2
+144,0002,GAME,Steam,LEGO The Lord of the Rings
+145,0001,GAME,Steam,Scribblenauts Unlimited
+146,0004,GAME,Uplay,Heroes of Might and Magic V: Hammers of Fate
+147,0003,GAME,Uplay,Heroes of Might and Magic V: Tribes of the East
+148,0004,GAME,Uplay,Hoyle Casino Games 2012
+200,0006,GAME,Steam,Wargame: European Escalation
+201,0004,GAME,Steam,Endless Space Emperor Edition
+203,0002,GAME,Steam,Magicka
+204,0001,DLC,Uplay,Ghost Recon Future Soldier - Raven Strike DLC
+208,0006,GAME,Origin,Dead Space™
+209,0005,GAME,Origin,Dead Space™ 2
+210,0007,GAME,Origin,The Sims™ 3 Deluxe Edition
+212,0001,GAME,Steam,Hitman: Absolution
+213,0001,GAME,Steam,Just Cause 2
+214,0001,GAME,Steam,Deus Ex: Human Revolution
+215,0005,GAME,Uplay,Hoyle Puzzle and Board Games 2012
+216,0004,GAME,Steam,Chivalry: Medieval Warfare
+217,0001,DLC,Uplay,Far Cry® 3 - High Tides
+218,0006,GAME,Origin,Mass Effect™ 3 N7 Digital Deluxe Edition
+219,0004,GAME,Origin,Crysis® 2 Maximum Edition
+220,0004,GAME,Steam,Sleeping Dogs™
+221,0003,GAME,Steam,Air Conflicts: Pacific Carriers
+222,0004,GAME,Steam,Galaxy on Fire 2™ Full HD
+223,0004,GAME,Steam,Shoot Many Robots
+224,0002,GAME,Origin,FIFA 13
+225,0006,GAME,Origin,Battlefield 3™ Premium Edition
+227,0002,GAME,Uplay,The Testament of Sherlock Holmes
+228,0003,GAME,Origin,Kingdoms of Amalur: Reckoning™
+229,0004,GAME,Origin,Dead Space™ 3
+230,0004,GAME,Origin,Crysis® 3
+231,0001,GAME,Origin,FIFA Manager 13
+232,0006,GAME,Uplay,Beyond Good and Evil™
+234,0001,GAME,Steam,Hitman: Absolution Pro Edition
+235,0002,GAME,Steam,Sleeping Dogs™ Limited Edition
+236,0002,GAME,Steam,Sleeping Dogs™ Low Violence Edition
+237,0001,GAME,Steam,Endless Space Admiral Edition
+238,0002,GAME,Steam,Painkiller Hell & Damnation
+239,0003,GAME,Steam,The Book of Unwritten Tales
+241,0002,GAME,Steam,King's Bounty: Warriors of the North
+242,0002,GAME,Steam,Men of War: Assault Squad
+245,0002,GAME,Uplay,Crysis Maximum
+246,0002,GAME,Steam,Orcs Must Die! 2
+247,0002,GAME,Steam,Rochard
+248,0002,GAME,Steam,Alan Wake
+253,0001,GAME,Steam,The Walking Dead
+254,0002,GAME,Origin,Dead Space 3
+255,0001,GAME,Uplay,Crysis 3
+256,0002,GAME,Origin,Dead Space 3
+257,0001,DLC,Uplay,Ghost Recon Future Soldier - Khyber Strike DLC Pack
+258,0005,GAME,Origin,SimCity™
+259,0004,GAME,Origin,SimCity™ Limited Edition
+260,0002,GAME,Steam,Tomb Raider
+261,0002,GAME,Steam,Tomb Raider: Survival Edition
+262,0021,GAME,Uplay,Trials Evolution Gold Edition
+263,0003,GAME,Steam,Painkiller Hell & Damnation Collector's Edition
+264,0003,GAME,Steam,Alan Wake Collector's Edition
+265,0002,GAME,Steam,The Book of Unwritten Tales Deluxe Edition
+268,0002,GAME,Steam,Rocksmith™
+270,0003,GAME,Uplay,Brothers in Arms: Road to Hill 30
+271,0004,GAME,Uplay,Brothers in Arms: Earned in Blood
+272,0002,GAME,Uplay,Brothers in Arms: Hell's Highway
+275,0001,GAME,ManiaPlanet,Trackmania Stadium
+276,0003,GAME,Uplay,Prince of Persia
+277,0002,GAME,Uplay,Prince of Persia
+281,0003,GAME,Uplay,Arma: Cold War Assault
+283,0003,GAME,Uplay,ArmA 2 Operation Arrowhead
+284,0002,DLC,Uplay,ArmA 2 - Private Military Company
+288,0001,DLC,Uplay,ArmA 2: British Armed Forces DLC
+289,0003,GAME,Uplay,ArmA 2
+290,0002,GAME,Uplay,Settlers 5: Heritage of Kings
+291,0002,GAME,Uplay,Settlers 6 Gold Edition
+292,0002,GAME,Uplay,Silent Hunter III
+293,0003,GAME,Uplay,Silent Hunter 4 Gold Edition
+294,0002,GAME,Uplay,Carrier Command: Gaea Mission
+295,0002,GAME,Steam,IL-2 Sturmovik - Cliffs of Dover
+296,0001,GAME,Steam,Might & Magic Clash of Heroes
+312,0002,GAME,Steam,Bloody Good Time
+313,0001,GAME,Steam,Babel Rising
