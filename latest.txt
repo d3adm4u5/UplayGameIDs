@@ -152,6 +152,9 @@
 275,0001,GAME,ManiaPlanet,Trackmania Stadium
 276,0003,GAME,Uplay,Prince of Persia
 277,0002,GAME,Uplay,Prince of Persia
+278,0004,GAME,Steam,Orcs Must Die! 2 - Fire & Water DLC
+279,0001,GAME,Steam,Orcs Must Die! 2 - Family Ties DLC
+280,0001,GAME,Steam,Orcs Must Die! 2 - Are We There Yeti? DLC
 281,0003,GAME,Uplay,Arma: Cold War Assault
 283,0003,GAME,Uplay,ArmA 2 Operation Arrowhead
 284,0002,DLC,Uplay,ArmA 2 - Private Military Company
@@ -164,5 +167,7 @@
 294,0002,GAME,Uplay,Carrier Command: Gaea Mission
 295,0002,GAME,Steam,IL-2 Sturmovik - Cliffs of Dover
 296,0001,GAME,Steam,Might & Magic Clash of Heroes
+305,0001,GAME,Steam,Warlock: Master of the Arcane
+306,0001,GAME,Steam,Defenders of Ardania
 312,0002,GAME,Steam,Bloody Good Time
 313,0001,GAME,Steam,Babel Rising
