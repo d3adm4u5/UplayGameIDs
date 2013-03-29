@@ -1,7 +1,7 @@
-2,0028,GAME,Uplay,Splinter Cell Conviction
-3,0027,GAME,Uplay,Silent Hunter 5
+2,0029,GAME,Uplay,Splinter Cell Conviction
+3,0028,GAME,Uplay,Silent Hunter 5: Battle of the Atlantic
 4,0034,GAME,Uplay,Assassin's Creed II
-8,0040,GAME,Uplay,Settlers 7
+8,0041,GAME,Uplay,The Settlers 7: Paths to a Kingdom
 11,0033,GAME,Uplay,Prince of Persia The Forgotten Sands
 12,0002,GAME,Steam,R.U.S.E.™
 13,0033,GAME,Uplay,Driver: San Francisco
@@ -14,9 +14,9 @@
 26,0044,GAME,Uplay,Assassin's Creed Brotherhood
 27,0012,GAME,Uplay,Settlers 7 Balance
 30,0035,GAME,Uplay,From Dust
-33,0033,GAME,Uplay,Tintin
+33,0034,GAME,Uplay,The Adventures of Tintin: The Game
 37,0014,GAME,Steam,Call of Juarez The Cartel
-40,0035,GAME,Uplay,Assassin's Creed Revelations
+40,0036,GAME,Uplay,Assassin's Creed Revelations
 44,0040,GAME,Uplay,Might & Magic Heroes VI
 45,0008,GAME,Uplay,Anno 2070 Beta
 46,0044,GAME,Uplay,Far Cry® 3
