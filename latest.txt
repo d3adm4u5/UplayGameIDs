@@ -57,6 +57,7 @@
 103,0010,GAME,Uplay,Assassin's Creed III - RUS
 104,0007,GAME,Uplay,Assassin's Creed III - JPN
 105,0010,GAME,Uplay,Assassin's Creed III - CZ
+108,0003,GAME,Uplay,Tom Clancy's Rainbow 6 VEGAS 2
 109,0002,GAME,Uplay,Tom Clancy's Splinter Cell
 110,0003,GAME,Uplay,Tom Clancy's Splinter Cell Double Agent
 111,0002,GAME,Uplay,Prince of Persia: The Sands of Time
@@ -84,7 +85,6 @@
 137,0004,GAME,Origin,Medal of Honor™ Warfighter
 138,0005,GAME,Uplay,To The Moon
 139,0002,GAME,Steam,Assassin's Creed III
-140,0014,GAME,Uplay,Trials Evolution Gold Edition MP Beta
 141,0004,GAME,Steam,The Lord of the Rings: War in the North
 142,0007,GAME,Steam,LEGO Batman: The Videogame
 143,0006,GAME,Steam,LEGO Batman 2
@@ -152,7 +152,7 @@
 275,0001,GAME,ManiaPlanet,Trackmania Stadium
 276,0003,GAME,Uplay,Prince of Persia
 277,0002,GAME,Uplay,Prince of Persia
-278,0004,GAME,Steam,Orcs Must Die! 2 - Fire & Water DLC
+278,0005,GAME,Steam,Orcs Must Die! 2 - Fire & Water DLC
 279,0001,GAME,Steam,Orcs Must Die! 2 - Family Ties DLC
 280,0001,GAME,Steam,Orcs Must Die! 2 - Are We There Yeti? DLC
 281,0003,GAME,Uplay,Arma: Cold War Assault
@@ -167,7 +167,10 @@
 294,0002,GAME,Uplay,Carrier Command: Gaea Mission
 295,0002,GAME,Steam,IL-2 Sturmovik - Cliffs of Dover
 296,0001,GAME,Steam,Might & Magic Clash of Heroes
+303,0001,GAME,Uplay,Europa Universalis III Chronicles
+304,0002,GAME,Uplay,Victoria II
 305,0001,GAME,Steam,Warlock: Master of the Arcane
 306,0001,GAME,Steam,Defenders of Ardania
 312,0002,GAME,Steam,Bloody Good Time
 313,0001,GAME,Steam,Babel Rising
+335,0001,GAME,Steam,Deus Ex: Human Revolution™ - Augmented Edition
