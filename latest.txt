@@ -154,8 +154,8 @@
 276,0003,GAME,Uplay,Prince of Persia
 277,0002,GAME,Uplay,Prince of Persia
 278,0005,GAME,Steam,Orcs Must Die! 2 - Fire & Water DLC
-279,0001,GAME,Steam,Orcs Must Die! 2 - Family Ties DLC
-280,0001,GAME,Steam,Orcs Must Die! 2 - Are We There Yeti? DLC
+279,0002,GAME,Steam,Orcs Must Die! 2 - Family Ties DLC
+280,0002,GAME,Steam,Orcs Must Die! 2 - Are We There Yeti? DLC
 281,0003,GAME,Uplay,Arma: Cold War Assault
 283,0003,GAME,Uplay,ArmA 2 Operation Arrowhead
 284,0002,DLC,Uplay,ArmA 2 - Private Military Company
