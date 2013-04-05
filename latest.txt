@@ -134,7 +134,7 @@
 247,0002,GAME,Steam,Rochard
 248,0002,GAME,Steam,Alan Wake
 253,0001,GAME,Steam,The Walking Dead
-254,0002,GAME,Origin,Dead Space 3
+254,0002,GAME,Uplay,Faces of War (tm) tile shown as Dead Space 3
 255,0001,GAME,Uplay,Crysis 3
 256,0002,GAME,Origin,Dead Space 3
 257,0001,DLC,Uplay,Ghost Recon Future Soldier - Khyber Strike DLC Pack
@@ -172,6 +172,16 @@
 304,0002,GAME,Uplay,Victoria II
 305,0001,GAME,Steam,Warlock: Master of the Arcane
 306,0001,GAME,Steam,Defenders of Ardania
+307,0003,GAME,Steam,SpellForce 2 - Faith in Destiny
+308,0001,GAME,Steam,SpellForce 2 - Faith in Destiny Digital Deluxe
+309,0001,GAME,Steam,Alan Wake's American Nightmare
+310,0001,GAME,Steam,The Book of Unwritten Tales: The Critter Chronicles
+311,0001,GAME,Steam,The Book of Unwritten Tales: The Critter Chronicles Collectors Edition
 312,0002,GAME,Steam,Bloody Good Time
 313,0001,GAME,Steam,Babel Rising
+330,0001,GAME,Steam,Bastion
+331,0001,GAME,Steam,F.E.A.R.
+332,0001,GAME,Steam,F.E.A.R. 2: Project Origin
+333,0001,GAME,Steam,F.E.A.R. 2: Reborn DLC
+334,0001,GAME,Steam,F.E.A.R. 3
 335,0001,GAME,Steam,Deus Ex: Human Revolution™ - Augmented Edition
