@@ -175,8 +175,8 @@
 307,0003,GAME,Steam,SpellForce 2 - Faith in Destiny
 308,0001,GAME,Steam,SpellForce 2 - Faith in Destiny Digital Deluxe
 309,0001,GAME,Steam,Alan Wake's American Nightmare
-310,0001,GAME,Steam The Book of Unwritten Tales: The Critter Chronicles
-311,0001,GAME,Steam The Book of Unwritten Tales: The Critter Chronicles Collectors Edition
+310,0001,GAME,Steam,The Book of Unwritten Tales: The Critter Chronicles
+311,0001,GAME,Steam,The Book of Unwritten Tales: The Critter Chronicles Collectors Edition
 312,0002,GAME,Steam,Bloody Good Time
 313,0001,GAME,Steam,Babel Rising
 330,0001,GAME,Steam,Bastion
