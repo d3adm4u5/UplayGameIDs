@@ -132,6 +132,7 @@
 246,0002,GAME,Steam,Orcs Must Die! 2
 247,0002,GAME,Steam,Rochard
 248,0002,GAME,Steam,Alan Wake
+252,0004,GAME,Uplay,DRIVER: PARALLEL LINES
 253,0001,GAME,Steam,The Walking Dead
 254,0002,GAME,Origin,Dead Space 3
 255,0001,GAME,Uplay,Crysis 3
@@ -145,6 +146,8 @@
 263,0003,GAME,Steam,Painkiller Hell & Damnation Collector's Edition
 264,0003,GAME,Steam,Alan Wake Collector's Edition
 265,0002,GAME,Steam,The Book of Unwritten Tales Deluxe Edition
+266,0002,GAME,Uplay,Blazing Angels
+267,0003,GAME,Uplay,Blazing Angels 2: Secret Missions of WWII
 268,0002,GAME,Steam,Rocksmith™
 270,0003,GAME,Uplay,Brothers in Arms: Road to Hill 30
 271,0004,GAME,Uplay,Brothers in Arms: Earned in Blood
