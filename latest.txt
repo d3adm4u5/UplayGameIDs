@@ -85,6 +85,7 @@
 137,0004,GAME,Origin,Medal of Honor™ Warfighter
 138,0005,GAME,Uplay,To The Moon
 139,0002,GAME,Steam,Assassin's Creed III
+140,0014,GAME,Uplay,Trials Evolution Gold Edition MP Beta
 141,0004,GAME,Steam,The Lord of the Rings: War in the North
 142,0007,GAME,Steam,LEGO Batman: The Videogame
 143,0006,GAME,Steam,LEGO Batman 2
@@ -134,7 +135,7 @@
 248,0002,GAME,Steam,Alan Wake
 252,0004,GAME,Uplay,DRIVER: PARALLEL LINES
 253,0001,GAME,Steam,The Walking Dead
-254,0002,GAME,Origin,Dead Space 3
+254,0002,GAME,Uplay,Faces of War (tm) tile shown as Dead Space 3
 255,0001,GAME,Uplay,Crysis 3
 256,0002,GAME,Origin,Dead Space 3
 257,0001,DLC,Uplay,Ghost Recon Future Soldier - Khyber Strike DLC Pack
@@ -156,8 +157,8 @@
 276,0003,GAME,Uplay,Prince of Persia
 277,0002,GAME,Uplay,Prince of Persia
 278,0005,GAME,Steam,Orcs Must Die! 2 - Fire & Water DLC
-279,0001,GAME,Steam,Orcs Must Die! 2 - Family Ties DLC
-280,0001,GAME,Steam,Orcs Must Die! 2 - Are We There Yeti? DLC
+279,0002,GAME,Steam,Orcs Must Die! 2 - Family Ties DLC
+280,0002,GAME,Steam,Orcs Must Die! 2 - Are We There Yeti? DLC
 281,0003,GAME,Uplay,Arma: Cold War Assault
 283,0003,GAME,Uplay,ArmA 2 Operation Arrowhead
 284,0002,DLC,Uplay,ArmA 2 - Private Military Company
@@ -174,6 +175,16 @@
 304,0002,GAME,Uplay,Victoria II
 305,0001,GAME,Steam,Warlock: Master of the Arcane
 306,0001,GAME,Steam,Defenders of Ardania
+307,0003,GAME,Steam,SpellForce 2 - Faith in Destiny
+308,0001,GAME,Steam,SpellForce 2 - Faith in Destiny Digital Deluxe
+309,0001,GAME,Steam,Alan Wake's American Nightmare
+310,0001,GAME,Steam,The Book of Unwritten Tales: The Critter Chronicles
+311,0001,GAME,Steam,The Book of Unwritten Tales: The Critter Chronicles Collectors Edition
 312,0002,GAME,Steam,Bloody Good Time
 313,0001,GAME,Steam,Babel Rising
+330,0001,GAME,Steam,Bastion
+331,0001,GAME,Steam,F.E.A.R.
+332,0001,GAME,Steam,F.E.A.R. 2: Project Origin
+333,0001,GAME,Steam,F.E.A.R. 2: Reborn DLC
+334,0001,GAME,Steam,F.E.A.R. 3
 335,0001,GAME,Steam,Deus Ex: Human Revolution™ - Augmented Edition
