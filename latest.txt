@@ -121,6 +121,7 @@
 230,0004,GAME,Origin,Crysis® 3
 231,0001,GAME,Origin,FIFA Manager 13
 232,0006,GAME,Uplay,Beyond Good and Evil™
+233,0001,GAME,Uplay,Cold Fear™
 234,0001,GAME,Steam,Hitman: Absolution Pro Edition
 235,0002,GAME,Steam,Sleeping Dogs™ Limited Edition
 236,0002,GAME,Steam,Sleeping Dogs™ Low Violence Edition
@@ -133,6 +134,7 @@
 246,0002,GAME,Steam,Orcs Must Die! 2
 247,0002,GAME,Steam,Rochard
 248,0002,GAME,Steam,Alan Wake
+252,0004,GAME,Uplay,DRIVER: PARALLEL LINES
 253,0001,GAME,Steam,The Walking Dead
 254,0002,GAME,Uplay,Faces of War (tm) tile shown as Dead Space 3
 255,0001,GAME,Uplay,Crysis 3
@@ -146,6 +148,8 @@
 263,0003,GAME,Steam,Painkiller Hell & Damnation Collector's Edition
 264,0003,GAME,Steam,Alan Wake Collector's Edition
 265,0002,GAME,Steam,The Book of Unwritten Tales Deluxe Edition
+266,0002,GAME,Uplay,Blazing Angels
+267,0003,GAME,Uplay,Blazing Angels 2: Secret Missions of WWII
 268,0002,GAME,Steam,Rocksmith™
 270,0003,GAME,Uplay,Brothers in Arms: Road to Hill 30
 271,0004,GAME,Uplay,Brothers in Arms: Earned in Blood
@@ -179,9 +183,15 @@
 311,0001,GAME,Steam,The Book of Unwritten Tales: The Critter Chronicles Collectors Edition
 312,0002,GAME,Steam,Bloody Good Time
 313,0001,GAME,Steam,Babel Rising
+323,0002,GAME,Origin,Mirror's Edge
+324,0001,GAME,Origin,Need for Speed The Run
+325,0003,GAME,Origin,Plants VS Zombies
+329,0002,GAME,Origin,Tiger Woods PGA Tour 12: The Masters
+328,0002,GAME,Origin,The Sims Medieval
 330,0001,GAME,Steam,Bastion
 331,0001,GAME,Steam,F.E.A.R.
 332,0001,GAME,Steam,F.E.A.R. 2: Project Origin
 333,0001,GAME,Steam,F.E.A.R. 2: Reborn DLC
 334,0001,GAME,Steam,F.E.A.R. 3
 335,0001,GAME,Steam,Deus Ex: Human Revolution™ - Augmented Edition
+340,0002,GAME,Uplay,Zeit2
