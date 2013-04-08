@@ -120,6 +120,7 @@
 229,0004,GAME,Origin,Dead Space™ 3
 230,0004,GAME,Origin,Crysis® 3
 231,0001,GAME,Origin,FIFA Manager 13
+233,0001,GAME,Uplay,Cold Fear™
 232,0006,GAME,Uplay,Beyond Good and Evil™
 234,0001,GAME,Steam,Hitman: Absolution Pro Edition
 235,0002,GAME,Steam,Sleeping Dogs™ Limited Edition
